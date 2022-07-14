@@ -1,0 +1,22 @@
+.principal {
+    display: block;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.foto {
+   
+   
+    width: auto;
+    height: 300px;
+    display: block
+}
+button {
+    margin-top: 30px;
+    border-radius: 3px;
+
+}
+h1 {
+    width: 100%;
+}
