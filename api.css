@@ -1,9 +1,9 @@
 .principal {
-    display: block;
+    display: flex;
     margin: 30px;
     align-items: center;
     justify-content: center;
-    flex-wrap: nowrap;
+    flex-direction: column;
 }
 .foto {
    
@@ -18,5 +18,5 @@ button {
 
 }
 h1 {
-    width: 100%;
+    text-align: center;
 }
